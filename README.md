@@ -1,1 +1,1 @@
-Support page of the LeitnerBox appliacation
+Support page of the LeitnerBox appliacation, add detailed images.
